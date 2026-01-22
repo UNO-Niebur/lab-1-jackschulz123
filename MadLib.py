@@ -20,7 +20,10 @@ def main():
 
 
   #Print the story with the user supplied words.
-  print("The", firstadj, animal, "took a", color, vehicle, "all the way to", place, "without ever sleeping. Along the way, the", animal, "picked up his friend who is a", secondanimal,"and is pretty", secondadj, "and they traveled for", hours, "hours. The trip took even longer than it should have because they got stuck in a", stuckin, "for an extra", hourstwo, "hours. However, the", animal, "and the", secondanimal, "made it to", place, "all in one piece and lived happily ever after. The end.")
+  print("The", firstadj, animal, "took a", color, vehicle, "all the way to", place, "without ever sleeping.")
+  print("Along the way, the", animal, "picked up his friend who is a", secondanimal,"and is pretty", secondadj, "and they traveled for", hours, "hours.")
+  print("The trip took even longer than it should have because they got stuck in a", stuckin, "for an extra", hourstwo, "hours.")
+  print("However, the", animal, "and the", secondanimal, "made it to", place, "all in one piece and lived happily ever after. The end.")
 
 
 
